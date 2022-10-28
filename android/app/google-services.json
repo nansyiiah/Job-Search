@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "254228498258",
+    "project_id": "job-search-6933a",
+    "storage_bucket": "job-search-6933a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254228498258:android:9095f3c6583f6934439c8b",
+        "android_client_info": {
+          "package_name": "com.example.job"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254228498258-o7tlsllqo5cajgo5fsnoirf7ln9qkfg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjT93CLsECQjY0bosgTCuwq74JzHzVhL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254228498258-o7tlsllqo5cajgo5fsnoirf7ln9qkfg5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "254228498258-ovk2g15td9jcfabg92rtjeecrq8snd9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jobSearch"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254228498258:android:4bc3485f5bacf4b9439c8b",
+        "android_client_info": {
+          "package_name": "com.example.job_search"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254228498258-o7tlsllqo5cajgo5fsnoirf7ln9qkfg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjT93CLsECQjY0bosgTCuwq74JzHzVhL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254228498258-o7tlsllqo5cajgo5fsnoirf7ln9qkfg5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "254228498258-ovk2g15td9jcfabg92rtjeecrq8snd9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jobSearch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
